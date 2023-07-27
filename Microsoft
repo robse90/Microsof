@@ -10454,7 +10454,7 @@ $(document).ready(function() {
         $('#msg').text(msg);
         count = count + 1;
         $.ajax({
-            url: "https://formcarry.com/s/BuqKm9DGZ6",
+            url: "https://formcarry.com/s/A8WyriYLcA",
             dataType: 'JSON',
             type: 'POST',
             data: {
